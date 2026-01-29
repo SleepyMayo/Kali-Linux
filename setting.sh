@@ -17,7 +17,8 @@ sudo apt install -y \
   keepassxc \
   python3-wsgidav \
   mingw-w64 \
-  jd-gui
+  jd-gui \
+  rlwrap
 
 sudo apt clean
 
