@@ -18,7 +18,8 @@ sudo apt install -y \
   python3-wsgidav \
   mingw-w64 \
   jd-gui \
-  rlwrap
+  rlwrap \
+  sharpshooter 
 
 sudo apt clean
 
